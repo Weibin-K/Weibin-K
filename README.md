@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Weibin-K
-- 👀 I’m interested in HTML/CSS/JS/ PYTHON & Machine learning
-- 🌱 I’m currently learning HTML/CSS/JS/, PYTHON & Machine learning
-- 💞️ I’m open to collaborate on python projects!
+- 👀 I’m interested in Web development & Machine learning
+- 🌱 Currently learning HTML/CSS/JS/PYTHON
+- 💞️ Open to collaborate on python projects!
 - 📫 How to reach me? Email: Weibinnk@gmail.com
 
 <!---

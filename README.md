@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Weibin Kong
+- 👋 Hi, I’m Kong Weibin
 - 👀 I’m interested in Web development & Machine learning
 - 🌱 I'm also new to python scripting :)
 - 💞️ Open to ✨ collaborate ✨

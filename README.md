@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Weibin-K
+- 👋 Hi, I’m Weibin Kong
 - 👀 I’m interested in Web development & Machine learning
 - 🌱 Currently learning HTML/CSS/JS/PYTHON
 - 💞️ Open to collaborate on python projects!

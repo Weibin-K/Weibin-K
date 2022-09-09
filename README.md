@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Weibin Kong
 - 👀 I’m interested in Web development & Machine learning
-- 🌱 Currently learning HTML/CSS/JS/PYTHON
-- 💞️ Open to collaborate on python projects!
+- 🌱 I'm also new to python scripting :)
+- 💞️ Open to ✨ collaborate ✨
 - 📫 How to reach me? Email: Weibinnk@gmail.com
 
 <!---

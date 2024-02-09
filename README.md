@@ -7,7 +7,7 @@
 
 [<img src="https://raw.githubusercontent.com/weibin-kong/weibin-kong/master/socials/linkedin.png" height="40em" align="center" alt="Follow weibin-kong on LinkedIn" title="Follow weibin-kong on LinkedIn"/>](https://www.linkedin.com/in/weibin-kong/)
 
-<!---
+
 [<img src="https://raw.githubusercontent.com/Weibin-K/Weibin-K/README/social/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/Raym0111)
 [<img src="https://raw.githubusercontent.com/Weibin-K/Weibin-K/README/social/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/Raymo111)
 

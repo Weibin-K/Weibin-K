@@ -10,7 +10,7 @@
 [<img src="https://raw.githubusercontent.com/Weibin-K/Weibin-K/social/twitter.svg" height="40em" align="center" alt="Follow weibin-kong on Twitter" title="Follow weibin-kong on Twitter"/>](https://twitter.com/k_weibin)
 [<img src="https://raw.githubusercontent.com/Weibin-K/Weibin-K/social/instagram.svg" height="40em" align="center" alt="Follow weibin-kong on Instagram" title="Follow weibin-kong on Instagram"/>](https://instagram.com/Raymo111)
 
-
+<!---
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <!---
 Weibin-K/Weibin-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

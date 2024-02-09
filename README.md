@@ -7,7 +7,7 @@
 
 [<img src="https://raw.githubusercontent.com/Weibin-K/Weibin-K/main/socials/linkedin.png" height="40em" align="center" alt="Follow weibin-kong on LinkedIn" title="Follow weibin-kong on LinkedIn"/>](https://www.linkedin.com/in/weibin-kong/)
 [<img src="https://raw.githubusercontent.com/Weibin-K/Weibin-K/main/socials/twitter.png" height="40em" align="center" alt="Follow weibin-kong on Twitter" title="Follow weibin-kong on Twitter"/>](https://twitter.com/k_weibin)
-[<img src="https://github.com/Weibin-K/Weibin-K/blob/main/socials/instagram.png?raw=true" height="40em" align="center" alt="Follow weibin-kong on Instagram" title="Follow weibin-kong on Instagram"/>](https://instagram.com/Raymo111)
+[<img src="https://github.com/Weibin-K/Weibin-K/blob/main/socials/instagram.png?raw=true" height="40em" align="center" alt="Follow weibin-kong on Instagram" title="Follow weibin-kong on Instagram"/>](https://instagram.com/weibin_k)
 
 <!---
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>

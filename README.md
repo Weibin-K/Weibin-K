@@ -3,6 +3,7 @@
 - 🌱 I'm also new to python scripting!
 - 💞️ Willing to learn and open to ✨ collaborations✨
 - 📫 You can reach me via email in my github profile. Check out my socials!
+  
 [<img src="https://raw.githubusercontent.com/Weibin-K/Weibin-K/main/socials/linkedin.png" height="40em" align="center" alt="Follow weibin-kong on LinkedIn" title="Follow weibin-kong on LinkedIn"/>](https://www.linkedin.com/in/weibin-kong/)
 [<img src="https://raw.githubusercontent.com/Weibin-K/Weibin-K/main/socials/twitter.png" height="40em" align="center" alt="Follow weibin-kong on Twitter" title="Follow weibin-kong on Twitter"/>](https://twitter.com/k_weibin)
 [<img src="https://github.com/Weibin-K/Weibin-K/blob/main/socials/instagram.png?raw=true" height="40em" align="center" alt="Follow weibin-kong on Instagram" title="Follow weibin-kong on Instagram"/>](https://instagram.com/weibin_k)

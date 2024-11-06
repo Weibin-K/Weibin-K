@@ -8,7 +8,6 @@
     [<img src="https://raw.githubusercontent.com/Weibin-K/Weibin-K/main/socials/twitter.png" height="40em" align="center" alt="Follow weibin-kong on Twitter" title="Follow weibin-kong on Twitter"/>](https://twitter.com/k_weibin) 
     [<img src="https://github.com/Weibin-K/Weibin-K/blob/main/socials/instagram.png?raw=true" height="40em" align="center" alt="Follow weibin-kong on Instagram" title="Follow weibin-kong on Instagram"/>](https://instagram.com/weibin_k) 
     [<img src="https://github.com/Weibin-K/Weibin-K/blob/main/socials/youtube.png?raw=true" height="40em" align="center" alt="Follow weibin-kong on Youtube" title="Follow weibin-kong on Youtube"/>](https://www.youtube.com/@wb4173) 
-    [<img src="https://github.com/Weibin-K/Weibin-K/blob/main/socials/facebook.png?raw=true" height="40em" align="center" alt="Follow weibin-kong on Facebook" title="Follow weibin-kong on Facebook"/>](https://trollface.dk/) 
 
 
 <!---

@@ -1,13 +1,18 @@
-- 👋 Hi, I’m Kong Weibin
-- 👀 I’m interested in Web development & Machine learning
-- 🌱 I'm also new to python scripting!
-- 💞️ Willing to learn and open to ✨ collaborations✨
-- 📫 You can reach me via email in my github profile. Check out my socials!
-  
-    [<img src="https://raw.githubusercontent.com/Weibin-K/Weibin-K/main/socials/linkedin.png" height="40em" align="center" alt="Follow weibin-kong on LinkedIn" title="Follow weibin-kong on LinkedIn"/>](https://www.linkedin.com/in/weibin-kong/) 
-    [<img src="https://raw.githubusercontent.com/Weibin-K/Weibin-K/main/socials/twitter.png" height="40em" align="center" alt="Follow weibin-kong on Twitter" title="Follow weibin-kong on Twitter"/>](https://twitter.com/k_weibin) 
-    [<img src="https://github.com/Weibin-K/Weibin-K/blob/main/socials/instagram.png?raw=true" height="40em" align="center" alt="Follow weibin-kong on Instagram" title="Follow weibin-kong on Instagram"/>](https://instagram.com/weibin_k) 
-    [<img src="https://github.com/Weibin-K/Weibin-K/blob/main/socials/youtube.png?raw=true" height="40em" align="center" alt="Follow weibin-kong on Youtube" title="Follow weibin-kong on Youtube"/>](https://www.youtube.com/@wb4173) 
+# Hi, I'm Kong Weibin 👋
+
+I'm interested in **web development** and **machine learning**, and I'm currently building my skills in **Python**. I'm open to collaborating and always keen to learn from others.
+
+## Focus Areas
+- 🌐 Web development
+- 🤖 Machine learning
+- 🐍 Python scripting (currently learning)
+
+## Get in Touch
+- 🤝 Open to collaborations
+- 📫 Email is available on my GitHub profile
+
+[<img src="https://raw.githubusercontent.com/Weibin-K/Weibin-K/main/socials/linkedin.png" height="40em" align="center" alt="Connect with Weibin Kong on LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/weibin-kong/)
+[<img src="https://raw.githubusercontent.com/Weibin-K/Weibin-K/main/socials/twitter.png" height="40em" align="center" alt="Follow Weibin Kong on Twitter" title="Twitter"/>](https://twitter.com/k_weibin)
 
 
 <!---

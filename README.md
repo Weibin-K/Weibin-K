@@ -5,7 +5,7 @@ I'm interested in **web development** and **machine learning**, and I'm currentl
 ## Focus Areas
 - 🌐 Web development
 - 🤖 Machine learning
-- 🐍 Python scripting (currently learning)
+- 🐍 Python scripting
 
 ## Get in Touch
 - 🤝 Open to collaborations

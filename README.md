@@ -6,7 +6,7 @@
 
 I'm an Electronics and Data Engineering student at the Singapore Institute of Technology (joint degree with TUM). I build hardware and software projects, from a muscle-signal sensor to a campus wayfinding app.
 
-**[🌐 View my full portfolio](https://claude.ai/artifact/TeDbgb4tJWTS8Hrbg7an71)** (interactive, with project pages, photos and demo videos)
+**[🌐 View my full portfolio]** (interactive, with project pages, photos and demo videos)
 
 ---
 
